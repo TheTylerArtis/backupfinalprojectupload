@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Silom');
+
+body {
+    font-family: Silom, arial, serif;
+    background-color: #98d2b5;
+}
+
+h1 {
+    color: #da1373;
+    text-align: center;
+    font-size: 65px;
+}
+h3 {
+    text-align: left;
+    color: #ff69b4;
+    font-size: 35px;
+}
+.title {
+    text-align: center; 
+}
+
+#pizza {
+    font-size: 50px; 
+    color: #b2b2ff;
+}
+
+#author {
+    font-size: 5px;
+    color: #b2b2ff;
+}
+
+a {
+    color: #b2b2ff;
+    text-decoration: none; 
+}
+
+a:visited {
+    color: #ff69b4;
+}
+
+a:hover {
+    color: #ffff00;
+}
+
+background {
+    background-color: #98d2b5 
+}
+
+div {
+   text-align: center;
+}
+
+button { 
+    font-family: Silom, arial, serif;
+    background-color: #98d2b5; 
+    border: none;
+    color: white;
+    padding: 30px 120px;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+
+}
+
+.body-text {
+text-align: left;
+}
+
+img {
+    align-items: center;
+    size: 5px 5px
+}
